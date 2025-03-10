@@ -1,0 +1,8 @@
+.title {
+  background-image: url('/src/assets/default-pilot.jpeg');
+}
+
+.subtitle {
+  color: orangered;
+  font-size: 18px;
+}
