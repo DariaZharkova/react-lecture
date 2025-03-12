@@ -1,8 +1,8 @@
-.title {
-  background-image: url('/src/assets/default-pilot.jpeg');
+.container {
+  max-width: 1170px;
+  margin: 0 auto;
 }
 
-.subtitle {
-  color: orangered;
-  font-size: 18px;
+.title {
+  text-align: center;
 }
